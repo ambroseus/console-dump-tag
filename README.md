@@ -1,6 +1,5 @@
 # console-dump-tag
-helper to dump vars to console
-es6 template tag function with console.log and JSON.stringify 
+helper to dump vars to console as es6 template tag function with console.log and JSON.stringify 
 
 install:
 ```
